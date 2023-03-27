@@ -1,0 +1,23 @@
+[
+  {
+    "email": "panashe@example.com",
+    "id": "2438c429-43f9-4959-b086-9fefd2f6133c",
+    "major": "Computer Engineering",
+    "name": "panashe",
+    "year": "1"
+  },
+  {
+    "email": "bethel@example.com",
+    "major": "CE",
+    "name": "bethel",
+    "year": "2",
+    "id": "2438c429-43f9-4959-b086-9fefd2f6133c"
+  },
+  {
+    "email": "luciamugoniwa@gmail.com",
+    "major": "Business Administration",
+    "name": "lucia Mugoniwa",
+    "year": "4",
+    "id": "2438c429-43f9-4959-b086-9fefd2f6133c"
+  }
+]

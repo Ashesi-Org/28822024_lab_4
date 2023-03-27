@@ -1,0 +1,44 @@
+[
+  {
+    "name": "AFC",
+    "start_date": "2023-04-01T00:00:00Z",
+    "end_date": "2023-04-03T00:00:00Z",
+    "positions": [
+      {
+        "name": "President",
+        "candidates": [
+          {
+            "name": "Alice Smith",
+            "email": "alicesmith@example.com",
+            "results": 2
+          },
+          {
+            "name": "Bob Johnson",
+            "email": "bobjohnson@example.com",
+            "results": "0"
+          }
+        ],
+        "voters": []
+      },
+      {
+        "name": "Vice President",
+        "candidates": [
+          {
+            "name": "Carol Lee",
+            "email": "carollee@example.com",
+            "results": 2
+          },
+          {
+            "name": "Dave Kim",
+            "email": "davekim@example.com",
+            "results": "0"
+          }
+        ],
+        "voters": [
+          "2438c429-43f9-4959-b086-9fefd2f6133c"
+        ]
+      }
+    ],
+    "id": "f2e71762-fcd3-4e4c-b03e-0a7154c80461"
+  }
+]
